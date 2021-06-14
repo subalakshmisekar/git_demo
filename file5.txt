@@ -1,1 +1,3 @@
+this file is under branch2_master
 creating this file directly on master
+merged both files to resolve conflict
